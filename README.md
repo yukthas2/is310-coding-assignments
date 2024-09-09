@@ -14,3 +14,6 @@
 
 ![VS Code Installation](images/vscode-installation-proof.png)
 
+Discord user: @yukthasuresh
+
+Hypothesis user: @yukthas2
