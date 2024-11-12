@@ -1,5 +1,5 @@
 # Command Line Maze
-**Author: Your Name**
+
 
 Welcome to the Command Line Maze! Use your command line skills to navigate through the maze and find the solution.
 
