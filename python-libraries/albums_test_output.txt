@@ -1,0 +1,31 @@
+Welcome! I am making a collection of favorite albums. Please enter your 
+favorite music album! 
+
+Checking album information: 
+Album Name: Wasteland, Baby
+Artist Name: Hozier
+Year of Release: 2019
+
+Checking album information: 
+Album Name: Melodrama
+Artist Name: Lorde
+Year of Release: 2018
+
+Checking album information: 
+Album Name: Chromakopia
+Artist Name: Tyler the Creator
+Year of Release: 2024
+
+Checking album information: 
+Album Name: To Pimp a Butterfly
+Artist Name: Kendrick Lamar
+Year of Release: 2015
+
+Album Name: The Dark Side of the Moon
+Artist Name: Pink Floyd
+Year of Release: 1973
+
+Album Name: Rumors
+Artist Name: Fleetwood Mac
+Year of Release: 1977
+
