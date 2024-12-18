@@ -1,0 +1,163 @@
+{
+    "SWAPI": {
+        "name": "Luke Skywalker",
+        "birth_year": "19BBY",
+        "films": [
+            "https://swapi.py4e.com/api/films/1/",
+            "https://swapi.py4e.com/api/films/2/",
+            "https://swapi.py4e.com/api/films/3/",
+            "https://swapi.py4e.com/api/films/6/",
+            "https://swapi.py4e.com/api/films/7/"
+        ]
+    },
+    "Europeana": [
+        {
+            "europeana_id": "/999/WILDLIFEXSOUNDSXXXBIRDSXXC654011",
+            "uri": "http://data.europeana.eu/item/999/WILDLIFEXSOUNDSXXXBIRDSXXC654011",
+            "type": "SOUND",
+            "image_url": "https://xeno-canto.org/sounds/uploaded/WBXWQVRTFL/XC654011-210603_0733-Parus%20major.mp3",
+            "country": "Netherlands",
+            "description": "field recording",
+            "title": "Parus major",
+            "creator": null,
+            "language": "en",
+            "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "provider": "Naturalis Biodiversity Center",
+            "dataset_name": "999__Naturalis_Wildlife_Sounds_batch3",
+            "concept": "http://openup.nhm-wien.ac.at/commonNames/266335",
+            "concept_lang": {
+                "nn": "kj\u00f8ttmeis",
+                "de": "Kohlmeise",
+                "ru": "\u0441\u0438\u043d\u0438\u0446\u0430 \u0431\u043e\u043b\u044c\u0448\u0430\u044f",
+                "sv": "talgoxe",
+                "def": "titw mawr",
+                "gl": "Meant\u00e1n m\u00f3r",
+                "bg": "\u0413\u043e\u043b\u044f\u043c \u0441\u0438\u043d\u0438\u0433\u0435\u0440",
+                "lt": "did\u017eioji zyl\u0117",
+                "en": "Great Tit",
+                "es": "Carbonero com\u00fan",
+                "eu": "Great Tit",
+                "nb": "kj\u00f8ttmeis",
+                "uk": "\u0421\u0438\u043d\u0438\u0446\u044f \u0432\u0435\u043b\u0438\u043a\u0430",
+                "ja": "\u30b7\u30b8\u30e5\u30a6\u30ab\u30e9",
+                "sn": "velika sinica",
+                "da": "Musvit",
+                "he": "\u05d9\u05e8\u05d2\u05d6\u05d9",
+                "ro": "Pi\u0163igoiul mare",
+                "nl": "Koolmees",
+                "sq": "\u00e7iner",
+                "tr": "Buyuk bastankara"
+            },
+            "description_lang": {
+                "def": "field recording"
+            },
+            "title_lang": {
+                "la": "Parus major"
+            }
+        },
+        {
+            "europeana_id": "/998/WILDLIFEXSOUNDSXXXBIRDSXXC360268",
+            "uri": "http://data.europeana.eu/item/998/WILDLIFEXSOUNDSXXXBIRDSXXC360268",
+            "type": "SOUND",
+            "image_url": "https://xeno-canto.org/sounds/uploaded/SZFQBBYSTI/XC360268-black-chested%20jay%20mobbing_2017.03.14%201038am.mp3",
+            "country": "Netherlands",
+            "description": "field recording",
+            "title": "Cyanocorax affinis",
+            "creator": null,
+            "language": "en",
+            "rights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "provider": "Naturalis Biodiversity Center",
+            "dataset_name": "998__Naturalis_Wildlife_Sounds_batch2",
+            "concept": null,
+            "concept_lang": null,
+            "description_lang": {
+                "def": "field recording"
+            },
+            "title_lang": {
+                "la": "Cyanocorax affinis"
+            }
+        },
+        {
+            "europeana_id": "/960/https___tours_j_story_org_tour_209_story_1968",
+            "uri": "http://data.europeana.eu/item/960/https___tours_j_story_org_tour_209_story_1968",
+            "type": "SOUND",
+            "image_url": "https://tours.j-story.org/assets/9599cb82-1b10-459e-a2af-f25683a08203",
+            "country": "Europe",
+            "description": "Dawna synagoga z po\u0142. XIX w., ul. Neza\u0142e\u017cnosti 125  Na pocz\u0105tku XX w. w Kowlu by\u0142o kilka synagog, w tym Wielka Synagoga zbudowana w latach 1886-1907\\. Ten unikatowy, cho\u0107 przebudowany, zabytek zachowa\u0142 swoj\u0105 okaza\u0142o\u015b\u0107 pomimo wojen i rewolucji. Dawna synagoga w Kowlu znajduje si\u0119 przy skrzy\u017cowaniu ul. Neza\u0142e\u017cnosti i ul. Wo\u0142odymyr\u015bkiej i jest jednym z budynkow lokalnej fabryki krawieckiej WKF Kowel. Przed 2009 r. przed wej\u015bciem do synagogi widnia\u0142a gwiazda Dawida, po\u017aniej jednak zosta\u0142a zamazana.",
+            "title": "Kowel - Dawna synagoga",
+            "creator": null,
+            "language": "en",
+            "rights": "http://creativecommons.org/licenses/by/4.0/",
+            "provider": "Grodzka Gate \u2013 NN Theatre",
+            "dataset_name": "960__JewishHistoryTours1",
+            "concept": "https://tours.j-story.org/tour-209/story-1968#subject_1",
+            "concept_lang": {
+                "def": "Ukraine"
+            },
+            "description_lang": {
+                "pl-PL": "Dawna synagoga z po\u0142. XIX w., ul. Neza\u0142e\u017cnosti 125  Na pocz\u0105tku XX w. w Kowlu by\u0142o kilka synagog, w tym Wielka Synagoga zbudowana w latach 1886-1907\\. Ten unikatowy, cho\u0107 przebudowany, zabytek zachowa\u0142 swoj\u0105 okaza\u0142o\u015b\u0107 pomimo wojen i rewolucji. Dawna synagoga w Kowlu znajduje si\u0119 przy skrzy\u017cowaniu ul. Neza\u0142e\u017cnosti i ul. Wo\u0142odymyr\u015bkiej i jest jednym z budynkow lokalnej fabryki krawieckiej WKF Kowel. Przed 2009 r. przed wej\u015bciem do synagogi widnia\u0142a gwiazda Dawida, po\u017aniej jednak zosta\u0142a zamazana.",
+                "en-US": "Former synagogue, mid-19th c. (now textile factory), 125 Nezalezhnosti St.  By the early 20th century, there were several synagogues in Kovel, one of them was the Great Synagogue, built in 1886-1907\\. This unique, though reconstructed, monument has retained its grandeur despite wars, revolutions, confiscations of Jewish religious property and its reconstruction. The former Great Synagogue in Kovel is located at the intersection of Nezalezhnosti St. and Volodymyrska St. and is one of the buildings of the local sewing factory, WKF Kovel. Before 2009, a Star of David was visible in front of the entrance to the synagogue, but later it was painted over."
+            },
+            "title_lang": {
+                "pl-PL": "Kowel - Dawna synagoga",
+                "en-US": "Kovel - Former synagogue"
+            }
+        },
+        {
+            "europeana_id": "/954/Culturalia_fb21bad8_6625_47ba_89f3_270e38ac6618",
+            "uri": "http://data.europeana.eu/item/954/Culturalia_fb21bad8_6625_47ba_89f3_270e38ac6618",
+            "type": "TEXT",
+            "image_url": "https://resource.culturalia.ro/public/2001/01/01/_BC-BJ_2020_10%20Octombrie%202020_Crina%20Ifrim_BJBC-Ifrim-Crina-2020-10__gen/00560-Ateneu-2018-01-05-b.pdf",
+            "country": "Romania",
+            "description": "Cronic\u0103 de cinema. \u201eStar Wars: The Last Jedi\", film din seria \u201eStar Wars\", al doilea din a treia trilogie, regizor \u0219i scenarist Rian Johnson.",
+            "title": "Un film de tranzi\u021bie",
+            "creator": "Antonia G\u00eermacea",
+            "language": "ro",
+            "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "provider": "Costache Sturza Library",
+            "dataset_name": "954_Ministerul_Culturii_Manifestations",
+            "concept": "http://vocab.getty.edu/aat/300048715",
+            "concept_lang": {
+                "de": "Ver\u00f6ffentlichung",
+                "en": "feature films",
+                "fr": "article",
+                "nl": "publicaties",
+                "es": "largometrajes"
+            },
+            "description_lang": {
+                "ro": "Cronic\u0103 de cinema. \u201eStar Wars: The Last Jedi\", film din seria \u201eStar Wars\", al doilea din a treia trilogie, regizor \u0219i scenarist Rian Johnson."
+            },
+            "title_lang": {
+                "ro": "Un film de tranzi\u021bie"
+            }
+        },
+        {
+            "europeana_id": "/954/Culturalia_cb104cb9_daa9_44bc_859f_9a080d12f8df",
+            "uri": "http://data.europeana.eu/item/954/Culturalia_cb104cb9_daa9_44bc_859f_9a080d12f8df",
+            "type": "TEXT",
+            "image_url": "https://resource.culturalia.ro/public/2001/01/01/_BC-BJ_2020_09%20Septembrie%202020_Crina%20Ifrim_BJBC-Ifrim-Crina-2020-09__gen/00540-Ateneu-2016-01-14.pdf",
+            "country": "Romania",
+            "description": "Prezentarea produc\u021biei cinematografice \u201eStar Wars: The Force Awakens\" (\u201eTrezirea For\u021bei\"), al \u0219apte\u00adlea episod dintr-o serie cunoscut\u0103 de filme (\u0219i primul dintr-o nou\u0103 trilogie), \u201eThe Force Awakens\" reprezint\u0103 \u0219i continuarea trilogiei originale \u201eStar Wars\", reunind personajele \u00eendr\u0103gite din filmele anterioare al\u0103turi de o nou\u0103 genera\u021bie.",
+            "title": "Trezirea for\u021bei",
+            "creator": "Antonia G\u00eermacea",
+            "language": "ro",
+            "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "provider": "Costache Sturza Library",
+            "dataset_name": "954_Ministerul_Culturii_Manifestations",
+            "concept": "http://vocab.getty.edu/aat/300048715",
+            "concept_lang": {
+                "de": "Ver\u00f6ffentlichung",
+                "en": "feature films",
+                "fr": "article",
+                "nl": "publicaties",
+                "es": "largometrajes"
+            },
+            "description_lang": {
+                "ro": "Prezentarea produc\u021biei cinematografice \u201eStar Wars: The Force Awakens\" (\u201eTrezirea For\u021bei\"), al \u0219apte\u00adlea episod dintr-o serie cunoscut\u0103 de filme (\u0219i primul dintr-o nou\u0103 trilogie), \u201eThe Force Awakens\" reprezint\u0103 \u0219i continuarea trilogiei originale \u201eStar Wars\", reunind personajele \u00eendr\u0103gite din filmele anterioare al\u0103turi de o nou\u0103 genera\u021bie."
+            },
+            "title_lang": {
+                "ro": "Trezirea for\u021bei"
+            }
+        }
+    ]
+}
